@@ -85,7 +85,7 @@
 |:---:|:---:|:---:|
 | <img src="screenshots/01_dashboard.png" width="280"> | <img src="screenshots/02_processes.png" width="280"> | <img src="screenshots/03_performance.png" width="280"> |
 | **Network** | **Storage** | **GPU** |
-| <img src="screenshots/04_network.png" width="280"> | <img src="screenshots/05_storage.png" width="280"> | <img src="screenshots/06_gpu.png" width="280"> because i don't have gpu|
+| <img src="screenshots/04_network.png" width="280"> | <img src="screenshots/05_storage.png" width="280"> | <img src="screenshots/06_gpu.png" width="280">                         because i don't have gpu|
 | **Services** | **Startup** | **System Info** |
 | <img src="screenshots/07_services.png" width="280"> | <img src="screenshots/08_startup.png" width="280"> | <img src="screenshots/09_system_info.png" width="280"> |
 
